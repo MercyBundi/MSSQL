@@ -1,1 +1,10 @@
+# Marketing Analytics
 
+I am doing a full project, determining why the company X is not reaping its marketing effort and also why there is significant drop in customer engagement.
+
+I am going to use several tools to fully achieve the goal for this project.
+
+This includes; 
+        1. mssql (considering the data is a backed up file from mssql)
+        2. Python ( to do natural text analysis on the review texts)
+        3. PowerBi (to best show case my findings)
